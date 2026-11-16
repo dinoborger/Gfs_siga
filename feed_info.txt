@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+"Instituto de Mobilidade e Transportes, IP-RAM - Rede SIGA",https://siga.madeira.gov.pt/,pt,20260910,20261130,202609181215,geral@imt.madeira.gov.pt,https://siga.madeira.gov.pt/

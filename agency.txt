@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+3,"Companhia de Autocarros da Madeira (CAM), S.A.",https://www.cam-madeira.pt/,Europe/Lisbon,pt,(+351) 291201151,https://tiim.pt/index.php/tarifarios,info@cam-madeira.pt
+2,SIGA RODOESTE,https://www.rodoeste.com.pt/,Europe/Lisbon,pt,+351291220148,https://tiim.pt/index.php/tarifarios,rodoeste@rodoeste.pt
+1,HF,https://www.horariosdofunchal.pt/,Europe/Lisbon,pt,(+351) 291 705 555,https://www.horariosdofunchal.pt/index.php/viajar/titulos-e-tarifas,geral@horariosdofunchal.pt

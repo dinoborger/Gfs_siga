@@ -1,0 +1,863 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+op3_500_5000I,3,500,Aerobus Praia Formosa - Aeroporto,,3,,,,,,
+op3_500_5000V,3,500,Aerobus Aeroporto - Praia Formosa,,3,,,,,,
+op3_501_5010I,3,501,Boqueirão  0I,,3,,,,,,
+op3_501_501AI,3,501,Boqueirão AI,,3,,,,,,
+op3_501_5010V,3,501,Boqueirão 0V,,3,,,,,,
+op3_501_501AV,3,501,Boqueirão AV,,3,,,,,,
+op3_502_5020I,3,502,Boqueirão 0I,,3,,,,,,
+op3_502_5020V,3,502,Boqueirão0V,,3,,,,,,
+op3_503_5030I,3,503,Boqueirão0I,,3,,,,,,
+op3_503_503AI,3,503,BoqueirãoAI,,3,,,,,,
+op3_503_503BI,3,503,BoqueirãoBI,,3,,,,,,
+op3_503_503CI,3,503,BoqueirãoCI,,3,,,,,,
+op3_503_503DI,3,503,BoqueirãoDI,,3,,,,,,
+op3_503_5030V,3,503,Boqueirão 0V,,3,,,,,,
+op3_503_503AV,3,503,BoqueirãoAV,,3,,,,,,
+op3_503_503BV,3,503,BoqueirãoBV,,3,,,,,,
+op3_503_503CV,3,503,BoqueirãoCV,,3,,,,,,
+op3_504_5040I,3,504,Achada (Santa Cruz)0I,,3,,,,,,
+op3_505_505AI,3,505,Moinhos Santa CruzAI,,3,,,,,,
+op3_505_505BI,3,505,Santa Cruz-MoinhosBI,,3,,,,,,
+op3_525_5250I,3,525,Boqueirão0I,,3,,,,,,
+op3_525_525AI,3,525,BoqueirãoAI,,3,,,,,,
+op3_525_5250V,3,525,Boqueirão0V,,3,,,,,,
+op3_525_525AV,3,525,BoqueirãoAV,,3,,,,,,
+op3_525_525DV,3,525,BoqueirãoDV,,3,,,,,,
+op3_526_5260I,3,526,Achada (Santa Cruz)0I,,3,,,,,,
+op3_526_526AI,3,526,Achada (Santa Cruz)AI,,3,,,,,,
+op3_526_526BI,3,526,Achada (Santa Cruz)BI,,3,,,,,,
+op3_526_526CI,3,526,Achada (Santa Cruz)CI,,3,,,,,,
+op3_526_526EI,3,526,Achada (Santa Cruz)EI,,3,,,,,,
+op3_526_5260V,3,526,Achada (Santa Cruz)V,,3,,,,,,
+op3_526_526AV,3,526,Achada (Santa Cruz)AV,,3,,,,,,
+op3_526_526CV,3,526,Achada (Santa Cruz)CV,,3,,,,,,
+op3_526_526DV,3,526,Achada (Santa Cruz)DV,,3,,,,,,
+op3_527_5270I,3,527,Moinhos - St. Cruz0I,,3,,,,,,
+op3_527_527AI,3,527,Moinhos - St. CruzAI,,3,,,,,,
+op3_527_527BI,3,527,Moinhos - St. CruzBI,,3,,,,,,
+op3_527_527CI,3,527,Moinhos - St. CruzCI,,3,,,,,,
+op3_527_5270V,3,527,Moinhos - St. Cruz0V,,3,,,,,,
+op3_527_527AV,3,527,Moinhos - St. CruzAV,,3,,,,,,
+op3_527_527BV,3,527,Moinhos - St. CruzBV,,3,,,,,,
+op3_528_528AI,3,528,MorenaAI,,3,,,,,,
+op3_528_528CI,3,528,MorenaCI,,3,,,,,,
+op3_528_5280V,3,528,Morena0V,,3,,,,,,
+op3_528_528AV,3,528,MorenaAV,,3,,,,,,
+op3_528_528BV,3,528,MorenaBV,,3,,,,,,
+op3_551_5510I,3,551,Assomada (Portinho)0I,,3,,,,,,
+op3_551_5510V,3,551,Assomada (Portinho)0V,,3,,,,,,
+op3_551_551AV,3,551,Assomada (Portinho)AV,,3,,,,,,
+op3_552_552BI,3,552,EirasBI,,3,,,,,,
+op3_552_5520I,3,552,Eiras0I,,3,,,,,,
+op3_552_552BV,3,552,EirasBV,,3,,,,,,
+op3_552_5520V,3,552,Eiras0V,,3,,,,,,
+op3_553_553AI,3,553,MoinhosAI,,3,,,,,,
+op3_553_553BI,3,553,MoinhosBI,,3,,,,,,
+op3_553_553CI,3,553,MoinhosCI,,3,,,,,,
+op3_553_553DI,3,553,MoinhosDI,,3,,,,,,
+op3_553_553EI,3,553,Moinhos FontesEI,,3,,,,,,
+op3_553_553AV,3,553,MoinhosAV,,3,,,,,,
+op3_553_553BV,3,553,MoinhosBV,,3,,,,,,
+op3_553_553CV,3,553,MoinhosCV,,3,,,,,,
+op3_553_553DV,3,553,Moinhos AdufaDV,,3,,,,,,
+op3_553_553EV,3,553,Moinhos FontesEV,,3,,,,,,
+op3_555_555AI,3,555,Ponta da OliveiraAI,,3,,,,,,
+op3_555_555BI,3,555,Ponta da OliveiraBI,,3,,,,,,
+op3_555_555PI,3,555,Ponta da OliveiraPI,,3,,,,,,
+op3_555_555AV,3,555,Ponta da OliveiraAV,,3,,,,,,
+op3_555_555BV,3,555,Ponta da OliveiraBV,,3,,,,,,
+op3_555_555CV,3,555,Ponta da OliveiraCV,,3,,,,,,
+op3_555_555PV,3,555,Ponta da OliveiraPV,,3,,,,,,
+op3_556_5560I,3,556,Reis Magos0I,,3,,,,,,
+op3_556_5560V,3,556,Reis Magos0V,,3,,,,,,
+op3_557_557AI,3,557,Mãe de DeusAI,,3,,,,,,
+op3_557_557BV,3,557,Mãe de DeusBV,,3,,,,,,
+op3_575_5750I,3,575,Eiras0I,,3,,,,,,
+op3_575_5750V,3,575,Eiras0V,,3,,,,,,
+op3_601_6010I,3,601,Achadinha0I,,3,,,,,,
+op3_601_601BI,3,601,AchadinhaBI,,3,,,,,,
+op3_601_6010V,3,601,Achadinha0V,,3,,,,,,
+op3_601_601AV,3,601,AchadinhaAV,,3,,,,,,
+op3_601_601DV,3,601,AchadinhaDV,,3,,,,,,
+op3_602_6020I,3,602,Rochão de Cima0I,,3,,,,,,
+op3_602_602AV,3,602,Rochão de CimaAV,,3,,,,,,
+op3_602_6020V,3,602,Rochão de CimaV,,3,,,,,,
+op3_603_6030I,3,603,Nogueira0I,,3,,,,,,
+op3_603_603AI,3,603,NogueiraAI,,3,,,,,,
+op3_603_603BI,3,603,NogueiraBI,,3,,,,,,
+op3_603_603DI,3,603,NogueiraDI,,3,,,,,,
+op3_603_603EI,3,603,NogueiraEI,,3,,,,,,
+op3_603_6030V,3,603,Nogueira0V,,3,,,,,,
+op3_603_603AV,3,603,NogueiraAV,,3,,,,,,
+op3_603_603BV,3,603,NogueiraBV,,3,,,,,,
+op3_603_603CV,3,603,NogueiraCV,,3,,,,,,
+op3_603_603EV,3,603,NogueiraEV,,3,,,,,,
+op3_604_6040I,3,604,Camacha / Sta Cruz0I,,3,,,,,,
+op3_604_604AI,3,604,Camacha / Sta CruzAI,,3,,,,,,
+op3_604_6040V,3,604,Camacha / Sta Cruz0V,,3,,,,,,
+op3_604_604AV,3,604,Camacha / Sta CruzAV,,3,,,,,,
+op3_605_6050I,3,605,Camacha - Santo da Serra0I,,3,,,,,,
+op3_625_6250I,3,625,Camacha0I,,3,,,,,,
+op3_625_625AI,3,625,CamachaAI,,3,,,,,,
+op3_625_625BI,3,625,CamachaBI,,3,,,,,,
+op3_625_625CI,3,625,CamachaCI,,3,,,,,,
+op3_625_625DI,3,625,CamachaDI,,3,,,,,,
+op3_625_625EI,3,625,CamachaEI,,3,,,,,,
+op3_625_625FI,3,625,CamachaFI,,3,,,,,,
+op3_625_6250V,3,625,Camacha0V,,3,,,,,,
+op3_625_625AV,3,625,CamachaAV,,3,,,,,,
+op3_625_625BV,3,625,CamachaBV,,3,,,,,,
+op3_625_625CV,3,625,CamachaCV,,3,,,,,,
+op3_625_625FV,3,625,CamachaFV,,3,,,,,,
+op3_625_625IV,3,625,CamachaIV,,3,,,,,,
+op3_651_6510I,3,651,Santo da Serra0I,,3,,,,,,
+op3_651_651AI,3,651,Santo da SerraAI,,3,,,,,,
+op3_651_651BI,3,651,Santo da SerraBI,,3,,,,,,
+op3_651_6510V,3,651,Santo da Serra0V,,3,,,,,,
+op3_651_651AV,3,651,Santo da SerraAV,,3,,,,,,
+op3_651_651CV,3,651,Santo da SerraCV,,3,,,,,,
+op3_675_6750I,3,675,Santo Serra0I,,3,,,,,,
+op3_675_675AI,3,675,Santo SerraAI,,3,,,,,,
+op3_675_6750V,3,675,Santo Serra0V,,3,,,,,,
+op3_675_675AV,3,675,Santo SerraAV,,3,,,,,,
+op3_701_701BI,3,701,MachicoBI,,3,,,,,,
+op3_701_701EI,3,701,MachicoEI,,3,,,,,,
+op3_701_701FI,3,701,MachicoFI,,3,,,,,,
+op3_701_7010V,3,701,Machico0V,,3,,,,,,
+op3_701_701AV,3,701,MachicoAV,,3,,,,,,
+op3_701_701BV,3,701,MachicoBV,,3,,,,,,
+op3_701_701CV,3,701,MachicoCV,,3,,,,,,
+op3_701_701EV,3,701,MachicoEV,,3,,,,,,
+op3_701_701FV,3,701,MachicoFV,,3,,,,,,
+op3_701_701GV,3,701,MachicoGV,,3,,,,,,
+op3_702_7020I,3,702,Baia D'Abra0I,,3,,,,,,
+op3_702_702AI,3,702,Baia D'AbraAI,,3,,,,,,
+op3_702_702BI,3,702,Baia D'AbraBI,,3,,,,,,
+op3_702_702CI,3,702,Baia D'AbraCI,,3,,,,,,
+op3_702_702EI,3,702,Baia D'AbraEI,,3,,,,,,
+op3_702_702FI,3,702,Baia D'AbraFI,,3,,,,,,
+op3_702_702GI,3,702,Baia D'AbraGI,,3,,,,,,
+op3_702_702HI,3,702,Baia D'AbraHI,,3,,,,,,
+op3_702_702LI,3,702,Baia D'AbraLI,,3,,,,,,
+op3_702_702MI,3,702,Baia D'AbraMI,,3,,,,,,
+op3_702_702NI,3,702,Baia D'AbraNI,,3,,,,,,
+op3_702_702OI,3,702,Baia D'AbraOI,,3,,,,,,
+op3_702_702PI,3,702,Baia D'AbraPI,,3,,,,,,
+op3_702_7020V,3,702,Baia D'Abra0V,,3,,,,,,
+op3_702_702AV,3,702,Baia D'AbraAV,,3,,,,,,
+op3_702_702CV,3,702,Baia D'AbraCV,,3,,,,,,
+op3_702_702FV,3,702,Baia D'AbraFV,,3,,,,,,
+op3_702_702HV,3,702,Baia D'AbraHV,,3,,,,,,
+op3_702_702JV,3,702,Baia D'AbraJV,,3,,,,,,
+op3_702_702LV,3,702,Baia D'AbraLV,,3,,,,,,
+op3_702_702MV,3,702,Baia D'AbraMV,,3,,,,,,
+op3_702_702PV,3,702,Baia D'AbraPV,,3,,,,,,
+op3_702_702QV,3,702,Baia D'AbraQV,,3,,,,,,
+op3_702_702RV,3,702,Baia D'AbraRV,,3,,,,,,
+op3_702_702SV,3,702,Baia D'AbraSV,,3,,,,,,
+op3_703_7030I,3,703,Ribeira Seca0I,,3,,,,,,
+op3_703_703AI,3,703,Ribeira SecaAI,,3,,,,,,
+op3_703_703BI,3,703,Ribeira SecaBI,,3,,,,,,
+op3_703_703CI,3,703,Ribeira SecaCI,,3,,,,,,
+op3_703_703GI,3,703,Ribeira SecaGI,,3,,,,,,
+op3_703_703HI,3,703,Ribeira SecaHI,,3,,,,,,
+op3_703_7030V,3,703,Ribeira Seca0V,,3,,,,,,
+op3_703_703AV,3,703,Ribeira SecaAV,,3,,,,,,
+op3_703_703BV,3,703,Ribeira SecaBV,,3,,,,,,
+op3_703_703FV,3,703,Ribeira SecaFV,,3,,,,,,
+op3_703_703GV,3,703,Ribeira SecaGV,,3,,,,,,
+op3_703_703IV,3,703,Ribeira SecaIV,,3,,,,,,
+op3_703_703PV,3,703,Ribeira SecaPV,,3,,,,,,
+op3_704_7040I,3,704,Maroços0I,,3,,,,,,
+op3_704_704BI,3,704,MaroçosBI,,3,,,,,,
+op3_704_704CI,3,704,MaroçosCI,,3,,,,,,
+op3_704_704DI,3,704,MaroçosDI,,3,,,,,,
+op3_704_704FI,3,704,MaroçosFI,,3,,,,,,
+op3_704_704KI,3,704,MaroçosKI,,3,,,,,,
+op3_704_704LI,3,704,MaroçosLI,,3,,,,,,
+op3_704_7040V,3,704,Maroços0V,,3,,,,,,
+op3_704_704BV,3,704,MaroçosBV,,3,,,,,,
+op3_704_704DV,3,704,MaroçosDV,,3,,,,,,
+op3_704_704FV,3,704,MaroçosFV,,3,,,,,,
+op3_704_704GV,3,704,MaroçosGV,,3,,,,,,
+op3_704_704KV,3,704,MaroçosKV,,3,,,,,,
+op3_725_725AC,3,725,Agua de PenaAC,,3,,,,,,
+op3_725_725BC,3,725,Sant'AnaBC,,3,,,,,,
+op3_725_725CI,3,725,Agua Pena e Sant'AnaCI,,3,,,,,,
+op3_726_7260I,3,726,Ribeira Seca0I,,3,,,,,,
+op3_726_726AI,3,726,Ribeira SecaAI,,3,,,,,,
+op3_726_7260V,3,726,Ribeira Seca0V,,3,,,,,,
+op3_726_726AV,3,726,Ribeira SecaAV,,3,,,,,,
+op3_727_7270I,3,727,Maroços0I,,3,,,,,,
+op3_727_727AI,3,727,MaroçosAI,,3,,,,,,
+op3_727_727AV,3,727,MaroçosAV,,3,,,,,,
+op3_727_7270V,3,727,Maroços0V,,3,,,,,,
+op3_750_7500I,3,750,Santo da Serra0I,,3,,,,,,
+op3_750_750AI,3,750,Santo da SerraAI,,3,,,,,,
+op3_750_750BI,3,750,Santo da SerraBI,,3,,,,,,
+op3_750_750EI,3,750,Santo da SerraEI,,3,,,,,,
+op3_750_750FI,3,750,Santo da SerraFI,,3,,,,,,
+op3_750_750GI,3,750,Santo da SerraGI,,3,,,,,,
+op3_750_750II,3,750,Santo da SerraII,,3,,,,,,
+op3_750_750MI,3,750,Santo da SerraMI,,3,,,,,,
+op3_760_7600V,3,760,Santo da Serra0V,,3,,,,,,
+op3_760_760AV,3,760,Santo da SerraAV,,3,,,,,,
+op3_760_760BV,3,760,Santo da SerraBV,,3,,,,,,
+op3_760_760EV,3,760,Santo da SerraEV,,3,,,,,,
+op3_760_760JV,3,760,Santo da SerraJV,,3,,,,,,
+op3_760_760KV,3,760,Santo da SerraKV,,3,,,,,,
+op3_760_760LV,3,760,Santo da SerraLV,,3,,,,,,
+op3_760_760MV,3,760,Santo da SerraMV,,3,,,,,,
+op3_760_760PV,3,760,Santo da SerraPV,,3,,,,,,
+op3_785_7850I,3,785,Porto da Cruz0I,,3,,,,,,
+op3_785_785AI,3,785,Porto da CruzAI,,3,,,,,,
+op3_785_785BI,3,785,Porto da CruzBI,,3,,,,,,
+op3_785_785AV,3,785,Porto da CruzAV,,3,,,,,,
+op3_785_785CV,3,785,Porto da CruzCV,,3,,,,,,
+op3_801_8010I,3,801,Santana0I,,3,,,,,,0
+op3_801_801BI,3,801,SantanaBI,,3,,,,,,0
+op3_801_801CI,3,801,SantanaCI,,3,,,,,,0
+op3_801_801EI,3,801,SantanaEI,,3,,,,,,0
+op3_801_801LI,3,801,SantanaLI,,3,,,,,,0
+op3_801_801MI,3,801,SantanaMI,,3,,,,,,0
+op3_801_801AV,3,801,SantanaAV,,3,,,,,,0
+op3_801_801FV,3,801,SantanaFV,,3,,,,,,0
+op3_801_801GV,3,801,SantanaGV,,3,,,,,,0
+op3_801_801HV,3,801,SantanaHV,,3,,,,,,0
+op3_801_801MV,3,801,SantanaMV,,3,,,,,,0
+op3_802_8020I,3,802,Santana0I,,3,,,,,,
+op3_802_802AI,3,802,SantanaAI,,3,,,,,,
+op3_803_8030I,3,803,Santana0I,,3,,,,,,
+op3_803_803AI,3,803,SantanaAI,,3,,,,,,
+op3_803_803BI,3,803,SantanaBI,,3,,,,,,
+op3_803_803DI,3,803,SantanaDI,,3,,,,,,
+op3_803_803MI,3,803,SantanaMI,,3,,,,,,
+op3_804_804FI,3,804,SantanaFI,,3,,,,,,
+op3_804_804BV,3,804,SantanaBV,,3,,,,,,
+op3_804_804DV,3,804,SantanaDV,,3,,,,,,
+op3_804_804FV,3,804,SantanaFV,,3,,,,,,
+op3_825_8250I,3,825,Faial0I,,3,,,,,,
+op3_825_825AI,3,825,FaialAI,,3,,,,,,
+op3_825_825BI,3,825,FaialBI,,3,,,,,,
+op3_825_825CI,3,825,FaialCI,,3,,,,,,
+op3_825_8250V,3,825,Faial0V,,3,,,,,,
+op3_826_8260I,3,826,Faial0I,,3,,,,,,
+op3_826_826AI,3,826,FaialAI,,3,,,,,,
+op3_826_826CI,3,826,FaialCI,,3,,,,,,
+op3_826_826DI,3,826,FaialDI,,3,,,,,,
+op3_826_826II,3,826,FaialI,,3,,,,,,
+op3_827_8270I,3,827,Faial0I,,3,,,,,,
+op3_827_827AI,3,827,FaialAI,,3,,,,,,
+op3_827_827BI,3,827,FaialBI,,3,,,,,,
+op3_827_827DI,3,827,FaialDI,,3,,,,,,
+op3_827_827EI,3,827,FaialEI,,3,,,,,,
+op3_827_827II,3,827,FaialII,,3,,,,,,
+op3_836_8360V,3,836,Faial0V,,3,,,,,,
+op3_836_836AV,3,836,FaialAV,,3,,,,,,
+op3_836_836CV,3,836,FaialCV,,3,,,,,,
+op3_836_836DV,3,836,FaialDV,,3,,,,,,
+op3_836_836EV,3,836,FaialEV,,3,,,,,,
+op3_836_836FV,3,836,FaialFV,,3,,,,,,
+op3_836_836GV,3,836,FaialGV,,3,,,,,,
+op3_837_8370V,3,837,Faial0V,,3,,,,,,
+op3_837_837AV,3,837,FaialAV,,3,,,,,,
+op3_837_837CV,3,837,FaialCV,,3,,,,,,
+op3_837_837DV,3,837,FaialDV,,3,,,,,,
+op3_837_837EV,3,837,FaialEV,,3,,,,,,
+op3_837_837FV,3,837,FaialFV,,3,,,,,,
+op3_837_837GV,3,837,FaialGV,,3,,,,,,
+op3_837_837IV,3,837,FaialIV,,3,,,,,,
+op3_837_837JV,3,837,FaialJV,,3,,,,,,
+op3_837_837LV,3,837,FaialLV,,3,,,,,,
+op3_837_837MV,3,837,FaialMV,,3,,,,,,
+op3_850_850AI,3,850,Arco São JorgeAI,,3,,,,,,0
+op3_850_850CI,3,850,Arco São JorgeCI,,3,,,,,,0
+op3_850_850DI,3,850,Arco São JorgeDI,,3,,,,,,0
+op3_850_850II,3,850,Arco São JorgeII,,3,,,,,,0
+op3_850_850MI,3,850,Arco São JorgeMI,,3,,,,,,0
+op3_850_850KI,3,850,Arco São JorgeKI,,3,,,,,,0
+op3_850_850LI,3,850,Arco São JorgeLI,,3,,,,,,0
+op3_850_8500I,3,850,Arco Sao Jorge0I,,3,,,,,,0
+op3_860_8600V,3,860,Arco São Jorge0V,,3,,,,,,0
+op3_860_860DV,3,860,Arco São JorgeDV,,3,,,,,,0
+op3_860_860EV,3,860,Arco São JorgeEV,,3,,,,,,0
+op3_860_860GV,3,860,Arco São JorgeGV,,3,,,,,,0
+op3_860_860IV,3,860,Arco São JorgeIV,,3,,,,,,0
+op3_860_860MV,3,860,Arco São JorgeMV,,3,,,,,,0
+op3_860_860OV,3,860,Arco São JorgeOV,,3,,,,,,0
+op3_860_860QV,3,860,Arco São JorgeQV,,3,,,,,,0
+op3_875_8750I,3,875,São Jorge0I,,3,,,,,,
+op3_875_875AI,3,875,São JorgeAI,,3,,,,,,
+op3_875_875BI,3,875,São JorgeBI,,3,,,,,,
+op3_885_885CV,3,885,São JorgeCV,,3,,,,,,0
+op3_885_885PV,3,885,São JorgePV,,3,,,,,,0
+op3_991_9910I,3,991,Camacha0I,,3,,,,,,
+op3_991_991EI,3,991,CamachaEI,,3,,,,,,
+op3_991_991EV,3,991,CamachaEV,,3,,,,,,
+op3_991_9910V,3,991,Camacha0V,,3,,,,,,
+op3_992_992EI,3,992,Serra de ForaEI,,3,,,,,,
+op3_992_992EV,3,992,Serra de ForaEV,,3,,,,,,
+op3_992_9920V,3,992,Serra de Fora0V,,3,,,,,,
+op3_993_993EI,3,993,Campo de CimaEI,,3,,,,,,
+op3_993_993AI,3,993,Campo de CimaAI,,3,,,,,,
+op3_993_993EV,3,993,Campo de CimaEV,,3,,,,,,
+op3_993_993AV,3,993,Campo de CimaAV,,3,,,,,,
+op3_994_994AI,3,994,CalhetaAI,,3,,,,,,
+op3_994_9940I,3,994,Calheta0I,,3,,,,,,
+op3_994_994BI,3,994,CalhetaBI,,3,,,,,,
+op3_994_994AV,3,994,CalhetaAV,,3,,,,,,
+op3_994_9940V,3,994,Calheta0V,,3,,,,,,
+op3_994_994BV,3,994,CalhetaBV,,3,,,,,,
+op3_995_9950I,3,995,Porto de Abrigo0I,,3,,,,,,
+op3_995_9950V,3,995,Porto de Abrigo0V,,3,,,,,,
+op3_995_995BV,3,995,,,3,,,,,,
+op2_200_A,2,200,Funchal - Ribeira Brava VIA RAPIDA,,3,,,,,,
+op2_200_B,2,200,Ribeira Brava - Funchal VIA RAPIDA,,3,,,,,,
+op2_200_D,2,200,Ribeira Brava - Funchal VIA RAPIDA (via Hospital),,3,,,,,,
+op2_201_0,2,201,Funchal - Ponte dos Frades,,3,,,,,,
+op2_201_E,2,201,Funchal - Ponte dos Frades até Cam. Ribeiro Real,,3,,,,,,
+op2_201_F,2,201,Cam. Ribeiro Real e Ponte Frades - Funchal,,3,,,,,,
+op2_202_0,2,202,Funchal - Estreito Câmara Lobos via C. Lobos,,3,,,,,,
+op2_202_A,2,202,Funchal - Estreito C.Lobos Via Rapida Direto,,3,,,,,,
+op2_202_F,2,202,Funchal - Estreito Câmara Lobos via Fte. Rocha,,3,,,,,,
+op2_202_E,2,202,Estreito Câmara Lobos - Funchal via C.Lobos,,3,,,,,,
+op2_202_D,2,202,Estreito Câmara Lobos - Funchal Via Rápida,,3,,,,,,
+op2_203_S,2,203,Funchal - Castelejo,,3,,,,,,
+op2_203_A,2,203,Funchal - Castelejo,,3,,,,,,
+op2_203_Q,2,203,Funchal - Castelejo Via Rapida,,3,,,,,,
+op2_203_G,2,203,Funchal - Castelejo Via Rapida,,3,,,,,,
+op2_203_C,2,203,Funchal - Castelejo até Ernesto Via Rápida,,3,,,,,,
+op2_203_0,2,203,Funchal - Castelejo,,3,,,,,,
+op2_203_O,2,203,Castelejo - Funchal via Covão,,3,,,,,,
+op2_203_N,2,203,Castelejo - Funchal via Fte. Rocha,,3,,,,,,
+op2_203_B,2,203,Castelejo - Funchal via C. Lobos,,3,,,,,,
+op2_203_I,2,203,Castelejo - Funchal Via Rápida,,3,,,,,,
+op2_203_M,2,203,Castelejo - Funchal Via Rapida S.Rita,,3,,,,,,
+op2_203_L,2,203,Castelejo e Fontes - Funchal Via Rapida,,3,,,,,,
+op2_203_E,2,203,Castelejo - Funchal Via Rapida - Direto,,3,,,,,,
+op2_203_P,2,203,Castelejo - Câmara de Lobos,,3,,,,,,
+op2_207_A,2,207,Funchal - Ribeira Brava via Cabo Girão,,3,,,,,,
+op2_207_0,2,207,Funchal - Ribeira Brava via Estreito C.Lobos,,3,,,,,,
+op2_207_G,2,207,Funchal - Ribeira Brava até C. Saúde,,3,,,,,,
+op2_207_B,2,207,Estreito C.Lobos - Ribeira Brava,,3,,,,,,
+op2_207_I,2,207,Funchal - Ribeira Brava via Estreito C.Lobos,,3,,,,,,
+op2_207_J,2,207,Funchal - Ribeira Brava via Estreito C.Lobos,,3,,,,,,
+op2_207_E,2,207,Ribeira Brava - Funchal via Cabo Girão,,3,,,,,,
+op2_207_C,2,207,Ribeira Brava - Funchal via Estreito C.Lobos,,3,,,,,,
+op2_207_F,2,207,Ribeira Brava - Funchal via Estreito C.Lobos,,3,,,,,,
+op2_207_H,2,207,Ribeira Brava - Funchal Via Rápida desde Estreito C.Lobos,,3,,,,,,
+op2_209_0,2,209,Funchal - Ribeira Brava Via Rápida até Q.Grande,,3,,,,,,
+op2_209_E,2,209,Funchal - Ribeira Brava Via Rápida Areeiro-Q.Grande via Tranqual,,3,,,,,,
+op2_209_B,2,209,Ribeira Brava - Funchal Via Rápida Q.Grande-Areeiro,,3,,,,,,
+op2_209_C,2,209,Ribeira Brava - Funchal Via Rapida desde Campanário,,3,,,,,,
+op2_209_F,2,209,Ribeira Brava - Funchal Via Rápida Q.Grande via Tranqual,,3,,,,,,
+op2_218_A,2,218,Vila da Calheta - Lombos - Arco Calheta - Calheta,,3,,,,,,
+op2_218_0,2,218,Vila da Calheta - Arco Calheta - Lombos - Calheta,,3,,,,,,
+op2_220_A,2,220,Ribeira Brava - Serra de Água,,3,,,,,,
+op2_220_0,2,220,Ribeira Brava - Serra de Água,,3,,,,,,
+op2_220_B,2,220,Ribeira Brava - Serra de Água,,3,,,,,,
+op2_221_0,2,221,Ribeira Brava - Pomar da Rocha e Furna,,3,,,,,,
+op2_221_A,2,221,Ribeira Brava - Furna,,3,,,,,,
+op2_221_F,2,221,Ribeira Brava - Fonte Cruzada (Poços),,3,,,,,,
+op2_221_B,2,221,Pomar da Rocha e Furna - Ribeira Brava,,3,,,,,,
+op2_221_G,2,221,Fonte Cruzada - Ribeira Brava,,3,,,,,,
+op2_222_0,2,222,Ribeira Brava - Candelária,,3,,,,,,
+op2_222_A,2,222,Ribeira Brava - Ribeira Tabúa,,3,,,,,,
+op2_222_B,2,222,Ribeira Tabúa e Candelária - Ribeira Brava,,3,,,,,,
+op2_222_D,2,222,Candelária - Ribeira Brava via Ribeira Tabúa,,3,,,,,,
+op2_223_0,2,223,Funchal - São Paulo Via Rápida Areeiro-Q.Grande,,3,,,,,,
+op2_224_0,2,224,Ribeira Brava - Terreiros via Rápida (Campanário),,3,,,,,,
+op2_224_E,2,224,Ribeira Brava - Terreiros via Escola Campanário,,3,,,,,,
+op2_225_0,2,225,Ribeira Brava - Vera Cruz,,3,,,,,,
+op2_225_A,2,225,Ribeira Brava - Escola Campanário Via Rápida,,3,,,,,,
+op2_225_B,2,225,Escola Campanário - Ribeira Brava Via Rápida,,3,,,,,,
+op2_226_0,2,226,Ribeira Brava - Terreiros via Boa Morte,,3,,,,,,
+op2_226_A,2,226,Ribeira Brava - São Paulo e Lugar da Serra via Boa Morte,,3,,,,,,
+op2_226_G,2,226,Ribeira Brava - Lugar da Serra via Moreno e Boa Morte,,3,,,,,,
+op2_226_I,2,226,Ribeira Brava - Lugar da Serra via Boa Morte,,3,,,,,,
+op2_226_C,2,226,Terreiros e Lugar da Serra - Ribeira Brava via Moreno,,3,,,,,,
+op2_226_B,2,226,São Paulo e Lugar da Serra - Ribeira Brava via Boa Morte,,3,,,,,,
+op2_226_H,2,226,Lugar da Serra - Ribeira Brava via Boa Morte e Moreno,,3,,,,,,
+op2_227_A,2,227,Ribeira Brava - Boa Morte via Moreno-Barreiro-Jardim,,3,,,,,,
+op2_227_0,2,227,Ribeira Brava - Boa Morte,,3,,,,,,
+op2_227_G,2,227,Ribeira Brava - Boa Morte via Moreno,,3,,,,,,
+op2_227_D,2,227,Boa Morte - Ribeira Brava via Moreno,,3,,,,,,
+op2_228_A,2,228,Funchal - Boa Morte via Francelheira,,3,,,,,,
+op2_228_0,2,228,Funchal - Boa Morte,,3,,,,,,
+op2_229_F,2,229,Ribeira Brava - Terreiros via Rápida-Escola-Jardim,,3,,,,,,
+op2_229_H,2,229,Ribeira Brava - Adega-Jardim via Escola Campanário,,3,,,,,,
+op2_229_C,2,229,Jardim - Ribeira Brava via Escola Campanário,,3,,,,,,
+op2_229_B,2,229,Terreiros - Ribeira Brava via Escola Campanario,,3,,,,,,
+op2_230_0,2,230,Escola Campanario - Fontainhas via Aviceiro,,3,,,,,,
+op2_230_D,2,230,Cruz Caldeira - Escola Campanario,,3,,,,,,
+op2_230_J,2,230,Fontainhas - Ribeira Brava via Escola Campanario,,3,,,,,,
+op2_231_B,2,231,Espigão - Campanário - Pedregal,,3,,,,,,
+op2_231_D,2,231,São Paulo - Campanario - Pedregal,,3,,,,,,
+op2_231_C,2,231,Pedregal - Campanario - Espigão,,3,,,,,,
+op2_231_F,2,231,Pedregal - Campanario - São Paulo,,3,,,,,,
+op2_232_0,2,232,Ribeira Brava - Moreno - Pedra - Ribeira Brava,,3,,,,,,
+op2_232_A,2,232,Ribeira Brava - Pedra - Moreno - Ribeira Brava,,3,,,,,,
+op2_233_0,2,233,Ribeira Brava - Tabúa - Pico - Ribeira Brava,,3,,,,,,
+op2_233_A,2,233,Ribeira Brava - Pico - Tabúa - Ribeira Brava,,3,,,,,,
+op2_236_0,2,236,Funchal - Vargem até Cam. Ribeiro Real via Fte. Rocha,,3,,,,,,
+op2_236_A,2,236,Cam. Ribeiro Real e Vargem - Funchal,,3,,,,,,
+op2_237_D,2,237,Funchal - Corticeiras via Fontes via Covão,,3,,,,,,
+op2_237_0,2,237,Funchal - Estreito via Covão via Fte. Rocha,,3,,,,,,
+op2_237_A,2,237,Funchal - Covão até Estreito C.Lobos,,3,,,,,,
+op2_237_B,2,237,Funchal - Estreito via Covão Via Rápida,,3,,,,,,
+op2_237_C,2,237,Funchal - Ponte Frades-Covão-Castelejo,,3,,,,,,
+op2_237_E,2,237,Funchal - Ponte Frades-Covão-Estreito e Saraiva,,3,,,,,,
+op2_237_M,2,237,Foro - Estreito - Covão - Funchal via Fte. Rocha,,3,,,,,,
+op2_237_J,2,237,Estreito - Covão - Funchal,,3,,,,,,
+op2_237_G,2,237,Estreito - Covão - Funchal Via Rápida,,3,,,,,,
+op2_237_L,2,237,Estreito - Covão - Fte. Rocha - Funchal Via Rápida,,3,,,,,,
+op2_237_H,2,237,Estreito - Covão - Funchal,,3,,,,,,
+op2_237_I,2,237,Estreito - Covão - Funchal via Fte. Rocha,,3,,,,,,
+op2_237_F,2,237,Estreito - Covão - Funchal via Fte. Rocha,,3,,,,,,
+op2_237_P,2,237,Estreito - Covão - Funchal via Fte. Rocha,,3,,,,,,
+op2_238_A,2,238,Funchal - Castelejo/Ernesto via Fte. Rocha e Covão,,3,,,,,,
+op2_238_0,2,238,Funchal - Castelejo/Ernesto via Fte. Rocha e Covão,,3,,,,,,
+op2_238_B,2,238,Castelejo/Ernesto - Covão - Funchal,,3,,,,,,
+op2_238_C,2,238,Ernesto - Covão - Funchal Via Rápida,,3,,,,,,
+op2_238_E,2,238,Ernesto - Covão - Ponte Frades - Cª Lobos,,3,,,,,,
+op2_238_F,2,238,Ernesto - Covão - Funchal via Fte. Rocha,,3,,,,,,
+op2_243_0,2,243,Escola Calheta - Ponta do Pargo via Prazeres,,3,,,,,,
+op2_243_A,2,243,Ponta do Pargo - Escola Calheta Via Rápida,,3,,,,,,
+op2_244_0,2,244,Ribeira Brava - Miradouro Lombada,,3,,,,,,
+op2_245_0,2,245,Ponta do Sol - Miradouro Lombada,,3,,,,,,
+op2_247_I,2,247,Ponta Sol - Achada - Salões - Campo Futebol - Carvalhal - Socorro,,3,,,,,,
+op2_247_0,2,247,Ponta Sol - Lombo São João,,3,,,,,,
+op2_247_J,2,247,Ponta Sol - Reta Canhas - Torreão - Madalena Mar,,3,,,,,,
+op2_247_M,2,247,Ponta Sol - Reta Canhas - Salões - Campo Futebol - Carvalhal - Socorro,,3,,,,,,
+op2_247_L,2,247,Ponta Sol - Achada - Salões - Levada do Poiso,,3,,,,,,
+op2_247_B,2,247,Pinhal - Salões - Reta - Ponta Sol,,3,,,,,,
+op2_247_C,2,247,Serragem - Reta - Ponta Sol,,3,,,,,,
+op2_247_R,2,247,Levada do Poiso - Canhas - Ponta do Sol,,3,,,,,,
+op2_247_A,2,247,Carvalhal - Levada do Poiso - Cabouco - Ponta do Sol,,3,,,,,,
+op2_247_T,2,247,Socorro - Canhas - Ponta do Sol,,3,,,,,,
+op2_249_0,2,249,Ponta do Sol - Madalena do Mar,,3,,,,,,
+op2_250_A,2,250,São Vicente - Achadas da Cruz via Eira da Achada,,3,,,,,,
+op2_250_H,2,250,São Vicente - Achadas da Cruz via Eira da Achada,,3,,,,,,
+op2_250_D,2,250,Santa Porto Moniz - São Vicente via Eira Achada,,3,,,,,,
+op2_250_F,2,250,Santa Porto Moniz - São Vicente via Eira Achada,,3,,,,,,
+op2_251_0,2,251,Porto Moniz - Seixal via Eira Achada,,3,,,,,,
+op2_251_B,2,251,Seixal - Porto Moniz,,3,,,,,,
+op2_252_0,2,252,Porto Moniz - Achadas da Cruz,,3,,,,,,
+op2_252_I,2,252,Achadas da Cruz - Santa P. Moniz,,3,,,,,,
+op2_253_0,2,253,Funchal - Furneira via Francelheira,,3,,,,,,
+op2_253_B,2,253,Estreito C.Lobos - Francelheira,,3,,,,,,
+op2_253_A,2,253,Francelheira - Funchal via Fte. Rocha,,3,,,,,,
+op2_253_C,2,253,Francelheira - Estreito C. Lobos,,3,,,,,,
+op2_254_A,2,254,Funchal - Fontaínhas via Francelheira,,3,,,,,,
+op2_254_G,2,254,Estreito C.Lobos - Fontaínhas,,3,,,,,,
+op2_254_0,2,254,Funchal - Fontaínhas,,3,,,,,,
+op2_254_B,2,254,Funchal - Fontaínhas via Fte.Rocha,,3,,,,,,
+op2_254_C,2,254,Funchal - Fontaínhas via Francelheira via Furneira,,3,,,,,,
+op2_254_M,2,254,Estreito Câmara Lobos - Fontainhas via Francelheira e Furneira,,3,,,,,,
+op2_254_I,2,254,Fontaínhas - Estreito C.Lobos via Francelheira,,3,,,,,,
+op2_254_H,2,254,Fontaínhas - Estreito C.Lobos,,3,,,,,,
+op2_254_D,2,254,Fontaínhas e Furneira - Funchal Via Rápida-Limoeiro,,3,,,,,,
+op2_254_E,2,254,Fontaínhas - Estreito C.Lobos via Furneira e Francelheira,,3,,,,,,
+op2_254_J,2,254,Furneira-Fontainhas-Francelheira - Funchal Via Rápida (S.Rita),,3,,,,,,
+op2_254_L,2,254,Fontaínhas-Furneira-Francelheira - Funchal Via Rápida,,3,,,,,,
+op2_255_0,2,255,Funchal - Quinta Grande via Aviceiro Via Rápida-Limoeiro,,3,,,,,,
+op2_256_0,2,256,Carmo - Quinta Grande via Francelheira e Furneira,,3,,,,,,
+op2_256_B,2,256,Quinta Grande - Carmo via Furneira e Francelheira,,3,,,,,,
+op2_257_0,2,257,Carmo - Caldeira até Fonte da Rocha,,3,,,,,,
+op2_257_A,2,257,Francelheira - Caldeira - Carmo,,3,,,,,,
+op2_258_C,2,258,Escola Torre - Estreito até Levada Nova,,3,,,,,,
+op2_258_0,2,258,Câmara de Lobos - Estreito via Covão,,3,,,,,,
+op2_258_A,2,258,Jardim São Francisco - Estreito via Covão,,3,,,,,,
+op2_258_B,2,258,Levada Nova - Estreito - Castelejo,,3,,,,,,
+op2_258_D,2,258,Covão - Escola Torre,,3,,,,,,
+op2_258_E,2,258,Covão - Escola Torre,,3,,,,,,
+op2_259_F,2,259,Estreito Câmara Lobos - Corrida via Fontes,,3,,,,,,
+op2_259_E,2,259,Estreito Câmara Lobos - Corticeiras via Fontes,,3,,,,,,
+op2_259_C,2,259,Estreito Câmara Lobos - Corrida via Fontes,,3,,,,,,
+op2_260_D,2,260,Estreito Câmara Lobos - Castelejo,,3,,,,,,
+op2_260_A,2,260,Estreito Câmara Lobos - Castelejo,,3,,,,,,
+op2_260_0,2,260,Estreito Câmara Lobos - Castelejo,,3,,,,,,
+op2_260_B,2,260,Castelejo - Estreito Câmara Lobos,,3,,,,,,
+op2_261_D,2,261,Estreito Câmara Lobos - Jardim da Serra via Fôro,,3,,,,,,
+op2_261_0,2,261,Estreito Câmara Lobos - Jardim da Serra via Fôro,,3,,,,,,
+op2_261_A,2,261,Estreito Câmara Lobos - Jardim da Serra via Corticeiras,,3,,,,,,
+op2_261_C,2,261,Estreito Câmara Lobos - Corticeiras,,3,,,,,,
+op2_261_B,2,261,Jardim da Serra - Estreito Câmara Lobos via Corticeiras,,3,,,,,,
+op2_262_D,2,262,Estreito Câmara Lobos - Corrida via Fôro e Marco,,3,,,,,,
+op2_262_B,2,262,Estreito Câmara Lobos - Corrida,,3,,,,,,
+op2_262_0,2,262,Estreito Câmara Lobos - Corrida via Fôro,,3,,,,,,
+op2_262_A,2,262,Marco-Corrida - Estreito Câmara Lobos via Fôro,,3,,,,,,
+op2_262_C,2,262,Corrida-Marco - Estreito Câmara Lobos via Corticeiras,,3,,,,,,
+op2_262_E,2,262,Marco-Corrida - Estreito Câmara Lobos via Fôro,,3,,,,,,
+op2_263_C,2,263,Escola Calheta - Paúl do Mar via Fazendinha,,3,,,,,,
+op2_263_E,2,263,Escola Calheta - Paúl do Mar via Ribeira Funda,,3,,,,,,
+op2_263_0,2,263,Calheta - Paúl do Mar,,3,,,,,,
+op2_263_G,2,263,Calheta - Paul do Mar e Raposeira,,3,,,,,,
+op2_263_F,2,263,Prazeres - Escola da Raposeira - Calheta,,3,,,,,,
+op2_263_A,2,263,Paul do Mar - Escola da Calheta,,3,,,,,,
+op2_263_D,2,263,Escola Raposeira - Prazeres - Paul do Mar,,3,,,,,,
+op2_264_I,2,264,"Escola Calheta - Lombos, Ledo - Calheta",,3,,,,,,
+op2_264_H,2,264,Escola Calheta - Fajã - Cova Arco,,3,,,,,,
+op2_264_L,2,264,Escola Calheta - Lombos - Ledo,,3,,,,,,
+op2_264_J,2,264,Escola Calheta - Cova do Arco via Fajã,,3,,,,,,
+op2_264_N,2,264,Escola Calheta - Atouguia,,3,,,,,,
+op2_264_O,2,264,Escola Calheta - Loreto e Ledo,,3,,,,,,
+op2_264_B,2,264,Cova do Arco - Escola da Calheta,,3,,,,,,
+op2_264_D,2,264,Loreto - Arco Calheta - Fajã - Escola Calheta,,3,,,,,,
+op2_264_C,2,264,Lombos - Atouguia - Escola Calheta,,3,,,,,,
+op2_264_E,2,264,Ledo - Escola Calheta,,3,,,,,,
+op2_265_0,2,265,Terra Chã - Ginjas e Lameiros até Escola,,3,,,,,,
+op2_265_A,2,265,São Vicente - Ginjas e Lameiros até Escola,,3,,,,,,
+op2_265_E,2,265,Escola São Vicente - Terra Chã - Ginjas - Lameiros,,3,,,,,,
+op2_266_0,2,266,São Vicente - Arco de São Jorge,,3,,,,,,
+op2_266_A,2,266,São Vicente - Falca (Arco São Jorge),,3,,,,,,
+op2_266_E,2,266,Lameiros - São Vicente - Arco São Jorge,,3,,,,,,
+op2_266_C,2,266,Falca - Arco São Jorge - São Vicente,,3,,,,,,
+op2_266_B,2,266,Fajã do Penedo - São Vicente,,3,,,,,,
+op2_266_D,2,266,Arco São Jorge - São Vicente via Túnel,,3,,,,,,
+op2_266_F,2,266,Fajã do Penedo - São Vicente via Túnel,,3,,,,,,
+op2_267_0,2,267,Funchal - Ribeira Brava via Cabo Girão e Aviceiro,,3,,,,,,
+op2_267_A,2,267,Ribeira Brava - Funchal via Aviceiro e Fte. Rocha,,3,,,,,,
+op2_270_H,2,270,Preces-Caldeira - Funchal via Ponte Frades,,3,,,,,,
+op2_270_C,2,270,Preces-Caldeira - Funchal via Fte. Rocha,,3,,,,,,
+op2_270_G,2,270,Preces-Caldeira - Câmara de Lobos via Fte. Rocha,,3,,,,,,
+op2_270_D,2,270,Preces-Caldeira - Funchal,,3,,,,,,
+op2_270_F,2,270,Preces-Caldeira - Funchal Via Rápida (S. Rita),,3,,,,,,
+op2_270_I,2,270,Preces-Caldeira - Funchal via Serrado Mar e Fte. Rocha,,3,,,,,,
+op2_271_D,2,271,Funchal - Preces-Caldeira até Rancho via Fte. Rocha,,3,,,,,,
+op2_271_A,2,271,Funchal - Serrado do Mar via Fte. Rocha (Preces-Caldeira),,3,,,,,,
+op2_271_B,2,271,Funchal - Rotunda Rancho (Preces-Caldeira) via Fte. Rocha,,3,,,,,,
+op2_271_C,2,271,Câmara de Lobos - Preces-Caldeira até Rancho,,3,,,,,,
+op2_271_F,2,271,Câmara de Lobos - Rotunda Rancho (Preces-Caldeira),,3,,,,,,
+op2_271_G,2,271,Funchal - Rotunda Rancho (Preces-Caldeira) Via Rápida (S.Rita),,3,,,,,,
+op2_272_0,2,272,Funchal - Caldeira-Preces Via Rápida,,3,,,,,,
+op2_277_B,2,277,Funchal - Ribeira Brava via Aviceiro e Moreno,,3,,,,,,
+op2_277_A,2,277,Funchal - Ribeira Brava via Moreno,,3,,,,,,
+op2_277_0,2,277,Funchal - Ribeira Brava via Moreno,,3,,,,,,
+op2_277_F,2,277,Ribeira Brava - Funchal via Moreno-C.Girão,,3,,,,,,
+op2_277_C,2,277,Ribeira Brava - Funchal via Moreno e Fte. Rocha,,3,,,,,,
+op2_277_E,2,277,Ribeira Brava - Funchal via Moreno,,3,,,,,,
+op2_277_G,2,277,Ribeira Brava - Funchal via Moreno,,3,,,,,,
+op2_277_D,2,277,Ribeira Brava - Funchal via Moreno e Cabo Girão,,3,,,,,,
+op2_283_0,2,283,Funchal - Ribeira Brava|via Francelheira,,3,,,,,,
+op2_286_0,2,286,São Paulo - Espigão,,3,,,,,,
+op2_287_0,2,287,Funchal - Ribeira Brava via Adega - Jardim,,3,,,,,,
+op2_290_0,2,290,Funchal - Fôro-Fontes Via Rápida,,3,,,,,,
+op2_290_A,2,290,Fontes-Fôro - Funchal Via Rápida,,3,,,,,,
+op2_290_B,2,290,Corticeiras - Foro - Funchal DIRETO,,3,,,,,,
+op2_291_0,2,291,Funchal - Jardim da Serra via Fôro,,3,,,,,,
+op2_291_A,2,291,Funchal - Jardim da Serra via Fôro Via Rápida,,3,,,,,,
+op2_291_D,2,291,Jardim da Serra - Funchal via Fôro via Covão,,3,,,,,,
+op2_291_B,2,291,Eira das Moças - Funchal via Fôro Via Rápida,,3,,,,,,
+op2_291_C,2,291,Jardim da Serra - Funchal via Fôro Via Rápida,,3,,,,,,
+op2_292_C,2,292,Funchal - Corrida-Marco via Fôro,,3,,,,,,
+op2_292_0,2,292,Funchal - Corrida via Fôro,,3,,,,,,
+op2_292_B,2,292,Marco-Corrida - Funchal via Fôro e Covão,,3,,,,,,
+op2_292_A,2,292,Marco-Corrida - Funchal via Fôro,,3,,,,,,
+op2_292_D,2,292,Corrida - Funchal via Fôro Via Rápida,,3,,,,,,
+op2_292_E,2,292,Marco-Corrida via Fôro Funchal VIA RÁPIDA,,3,,,,,,
+op2_293_0,2,293,Funchal - Corticeiras via Fontes,,3,,,,,,
+op2_293_A,2,293,Pereira - Funchal via Fontes,,3,,,,,,
+op2_294_B,2,294,Funchal - Jardim da Serra via Castelejo e Fontes,,3,,,,,,
+op2_294_D,2,294,Funchal - Eira das Moças via Fontes,,3,,,,,,
+op2_294_0,2,294,Funchal - Jardim da Serra via Fontes,,3,,,,,,
+op2_294_C,2,294,Jardim da Serra - Funchal via Fontes-Castelejo,,3,,,,,,
+op2_294_E,2,294,Eira das Moças - Funchal via Fontes,,3,,,,,,
+op2_294_A,2,294,Jardim da Serra - Funchal via Fontes Via Rápida,,3,,,,,,
+op2_295_A,2,295,Funchal - Marco-Corrida via Castelejo e Fontes,,3,,,,,,
+op2_295_D,2,295,Funchal - Marco-Corrida via Fontes,,3,,,,,,
+op2_295_0,2,295,Funchal - Marco via Fontes (Corrida),,3,,,,,,
+op2_295_C,2,295,Funchal - Marco-Corrida via Fte. Rocha e Fontes,,3,,,,,,
+op2_295_E,2,295,Funchal - Corrida via Fontes VIA RÁPIDA,,3,,,,,,
+op2_295_B,2,295,Marco-Corrida - Funchal via Fontes Via Rápida Direto,,3,,,,,,
+op2_296_F,2,296,Funchal - Eira das Moças via Corticeiras,,3,,,,,,
+op2_296_0,2,296,Funchal - Jardim da Serra via Corticeiras,,3,,,,,,
+op2_296_G,2,296,Câmara de Lobos - Jardim da Serra via Carmo,,3,,,,,,
+op2_296_A,2,296,Funchal - Jardim da Serra via Fte. Rocha via Romeiras,,3,,,,,,
+op2_296_B,2,296,Funchal - Jardim da Serra via Romeiras Via Rápida,,3,,,,,,
+op2_296_C,2,296,Jardim Serra - Funchal via Corticeiras e Fte. Rocha,,3,,,,,,
+op2_296_D,2,296,Jardim da Serra - Funchal via Corticeiras Via Rápida,,3,,,,,,
+op2_296_E,2,296,Jardim da Serra - Funchal Via Rápida - Direto,,3,,,,,,
+op2_296_H,2,296,Eira das Moças - Funchal via Corticeiras,,3,,,,,,
+op2_297_B,2,297,Funchal - Corticeiras até Fôro,,3,,,,,,
+op2_297_E,2,297,Pereira - Funchal,,3,,,,,,
+op2_297_F,2,297,Corticeiras - Funchal DIRETO,,3,,,,,,
+op2_298_F,2,298,Funchal - Corrida via Escola e Corticeiras,,3,,,,,,
+op2_298_A,2,298,Funchal - Marco via Romeiras (Corrida),,3,,,,,,
+op2_298_C,2,298,Marco-Corrida via Fte. Rocha e Romeiras,,3,,,,,,
+op2_298_B,2,298,Funchal - Corrida Via Rápida-Direto,,3,,,,,,
+op2_298_0,2,298,Funchal - Corrida via Romeiras,,3,,,,,,
+op2_298_E,2,298,Marco-Corrida - Funchal via Fte. Rocha,,3,,,,,,
+op2_298_D,2,298,Marco-Corrida - Funchal via Corticeiras,,3,,,,,,
+op2_299_B,2,299,Circulação - Fontes-Corticeiras-Fôro,,3,,,,,,
+op2_300_0,2,300,Funchal - São Vicente Via Rápida,,3,,,,,,
+op2_301_0,2,301,São Vicente - Funchal Via Rápida,,3,,,,,,
+op2_304_0,2,304,Funchal - Arco de São Jorge via Encumeada e Falca,,3,,,,,,
+op2_304_A,2,304,Funchal - Arco de São Jorge via Encumeada,,3,,,,,,
+op2_305_0,2,305,Arco São Jorge - Funchal via Falca e Encumeada,,3,,,,,,
+op2_306_A,2,306,Funchal - Fajã do Penedo via Cabo Girão,,3,,,,,,
+op2_306_0,2,306,Funchal - Boaventura via Cabo Girão,,3,,,,,,
+op2_307_0,2,307,Boaventura - Funchal via Ginjas,,3,,,,,,
+op2_310_B,2,310,Funchal - Arco São Jorge Via Rápida até Quinta Grande,,3,,,,,,
+op2_310_0,2,310,Serra de Água - Arco de São Jorge via Lameiros,,3,,,,,,
+op2_311_0,2,311,Arco São Jorge - Funchal Via Rápida,,3,,,,,,
+op2_311_A,2,311,Arco São Jorge - Funchal Via Rápida,,3,,,,,,
+op2_320_0,2,320,Funchal - Ponta do Sol via Lombada Via Rápida,,3,,,,,,
+op2_321_0,2,321,,,3,,,,,,
+op2_322_0,2,322,Funchal - Ponta do Sol via Cabo Girão,,3,,,,,,
+op2_323_0,2,323,,,3,,,,,,
+op2_323_A,2,323,Ponta do Sol - Funchal via Lugar de Baixo e Cabo Girão,,3,,,,,,
+op2_324_0,2,324,Funchal - Carvalhal via Estrada Regional,,3,,,,,,
+op2_325_0,2,325,Carvalhal - Funchal via Estrada Regional,,3,,,,,,
+op2_325_A,2,325,Carvalhal - Funchal Via Rápida desde Q.Grande-P.Frades via Fte. Rocha,,3,,,,,,
+op2_326_0,2,326,Funchal - Carvalhal via Monte Via Rápida,,3,,,,,,
+op2_327_B,2,327,Monte-Carvalhal - Funchal via Rápida,,3,,,,,,
+op2_328_0,2,328,Funchal - Madalena do Mar Via Rápida,,3,,,,,,
+op2_329_0,2,329,,,3,,,,,,
+op2_334_0,2,334,Funchal - Carvalhal via Fte. Rocha e Monte,,3,,,,,,
+op2_334_A,2,334,"Funchal - Carvalhal via Estrada Regional, L.Baixo e Monte",,3,,,,,,
+op2_335_0,2,335,Carvalhal - Funchal via Monte e Estrada Regional,,3,,,,,,
+op2_335_A,2,335,Carvalhal - Funchal via Monte e Estrada Regional,,3,,,,,,
+op2_336_0,2,336,Ribeira Brava - Carvalhal via Lombada e Achada,,3,,,,,,
+op2_336_A,2,336,Ribeira Brava - Carvalhal via Canhas,,3,,,,,,
+op2_336_D,2,336,Ribeira Brava - Canhas,,3,,,,,,
+op2_337_0,2,337,,,3,,,,,,
+op2_337_D,2,337,Canhas - Ribeira Brava,,3,,,,,,
+op2_340_0,2,340,"Funchal - Porto Moniz via Cabo Girão, Encumeada e São Vicente",,3,,,,,,
+op2_341_0,2,341,Porto Moniz - Funchal via São Vicente e Via Rápida,,3,,,,,,
+op2_350_A,2,350,"Funchal - Achadas da Cruz Via Rápida, Túnel, Ginjas e Eira da Achada",,3,,,,,,
+op2_351_0,2,351,,,3,,,,,,
+op2_352_0,2,352,Ribeira Brava - Achadas da Cruz via Eira da Achada,,3,,,,,,
+op2_352_A,2,352,Ribeira Brava - Achadas da Cruz via Eira da Achada,,3,,,,,,
+op2_353_0,2,353,,,3,,,,,,
+op2_353_B,2,353,"Achadas Cruz - Ribeira Brava via Eira Achada, PDelgada e Lameiros",,3,,,,,,
+op2_353_C,2,353,Achadas Cruz - Ribeira Brava via Eira Achada e Lameiros,,3,,,,,,
+op2_370_A,2,370,Funchal - Estrela Calheta (até Paul do Mar) via Estrada Regional e Canhas,,3,,,,,,
+op2_371_0,2,371,"Paul do Mar - Funchal via Madalena do Mar, Estrada Regional e Fte. Rocha",,3,,,,,,
+op2_372_B,2,372,Ribeira Brava - Paul do Mar e Fajã da Ovelha via Madalena Mar e Arco da Calheta,,3,,,,,,
+op2_373_A,2,373,"Fajã Ovelha - Funchal via Ribeira Funda, Escola Calheta, Canhas Via Rápida",,3,,,,,,
+op2_379_A,2,379,"Fajã Ovelha - Funchal via Prazeres, Paul do Mar, Vila Calheta, Madalena Mar, Moreno e Cabo Girão",,3,,,,,,
+op2_380_0,2,380,Funchal - Porto Moniz via Calheta Via Rápida - Madalena Mar - Paul do Mar,,3,,,,,,
+op2_380_B,2,380,Funchal - Porto Moniz via Calheta Via Rápida - Madalena Mar - Paul do Mar,,3,,,,,,
+op2_381_0,2,381,Porto Moniz - Funchal via Calheta-Canhas e Via Rápida,,3,,,,,,
+op2_381_B,2,381,Porto Moniz - Funchal via Calheta- Paul do Mar - Madalena do Mar e Via Rápida,,3,,,,,,
+op2_390_0,2,390,Funchal - Ponta Pargo Via Rápida via Canhas,,3,,,,,,
+op2_391_0,2,391,,,3,,,,,,
+op2_391_B,2,391,"Ponta Pargo - Funchal Via Rápida via Vila da Calheta, Arco Calheta, Canhas",,3,,,,,,
+op2_391_C,2,391,Ponta Pargo - Funchal Via Rápida via Arco Calheta e Canhas,,3,,,,,,
+op2_392_0,2,392,"Funchal - Ponta Pargo via Estrada Regional via Canhas, Escola Calheta, Escola Raposeira",,3,,,,,,
+op2_394_0,2,394,"Funchal - Ponta Pargo via Estrada Regional, Cabo Girão, Canhas, Arco Calheta e Vila da Calheta",,3,,,,,,
+op2_395_0,2,395,"Ponta Pargo - Funchal via Vila Calheta, Arco Calheta, Canhas e Estrada Regional",,3,,,,,,
+op2_396_0,2,396,"Funchal - Ponta Pargo via Estrada Regional, Lugar Baixo, Canhas, Fajã, Vila Calheta",,3,,,,,,
+op2_397_A,2,397,"Ponta Pargo - Funchal Via Rápida - via Vila Calheta, Fajã, Canhas e Lugar Baixo",,3,,,,,,
+op2_398_0,2,398,Funchal - Ponta Pargo via C.Girão-Moreno,,3,,,,,,
+op2_398_A,2,398,Funchal - Ponta Pargo (Salão) via Cabo Girão e Moreno,,3,,,,,,
+op1_001_0,1,001,Centro - Ponta Laranjeira,,3,,FFD200,000000,,0,0
+op1_001_A,1,001,Centro - Ponta Laranjeira (via Alto Lido),,3,,FFD200,000000,,0,0
+op1_001_B,1,001,Ponta Laranjeira - Centro (Ligação Monte C. 020),,3,,FFD200,000000,,0,0
+op1_001_C,1,001,Ponta Laranjeira - Centro (Ligação Monte C. 021),,3,,FFD200,000000,,0,0
+op1_002_0,1,002,Centro - AV M Soares,,3,http://www.horariosdofunchal.pt/carreiras/02.pdf,FFD200,000000,,0,0
+op1_002_A,1,002,AV M Soares - Centro(Direto E Monumental),,3,http://www.horariosdofunchal.pt/carreiras/02.pdf,FFD200,000000,,0,0
+op1_002_B,1,002,AV M Soares - Centro (Ligação Monte C. 020),,3,http://www.horariosdofunchal.pt/carreiras/02.pdf,FFD200,000000,,0,0
+op1_003_0,1,003,Centro - Pizo,,3,,FFD200,000000,,0,0
+op1_003_A,1,003,Centro - CAM Lombada (via Túnel da Nazaré),,3,,FFD200,000000,,0,0
+op1_003_B,1,003,Centro - CAM Lombada,,3,,FFD200,000000,,0,0
+op1_004_0,1,004,Centro - ESCL S Martinho,,3,,FFD200,000000,,0,0
+op1_005_0,1,005,Centro - AV Sá Carneiro,,3,,FFD200,000000,,0,0
+op1_005_A,1,005,Centro - AV Sá Carneiro (até 31 Janeiro),,3,,FFD200,000000,,0,0
+op1_007_0,1,007,Centro - Travessa Pomar,,3,,FFD200,000000,,0,0
+op1_007_A,1,007,Centro - Travessa Pomar (via Transval),,3,,FFD200,000000,,0,0
+op1_008_0,1,008,Centro - STA Quitéria,,3,,FFD200,000000,,0,0
+op1_008_A,1,008,Centro - STA Quitéria (até Viana),,3,,FFD200,000000,,0,0
+op1_008_D,1,008,Centro - STA Quitéria,,3,,FFD200,000000,,0,0
+op1_009_0,1,009,Centro - Courelas,,3,,FFD200,000000,,0,0
+op1_010_0,1,010,Centro - Chamorra,,3,,FFD200,000000,,0,0
+op1_011_0,1,011,Centro - Graça,,3,,FFD200,000000,,0,0
+op1_012_0,1,012,Centro - Jamboto (via Hospital),,3,,FFD200,000000,,0,0
+op1_012_A,1,012,Centro - Jamboto - ESC Achada (Hospital e Nazaré),,3,,FFD200,000000,,0,0
+op1_012_B,1,012,Centro - Jamboto - S Roque (via Hospital),,3,,FFD200,000000,,0,0
+op1_012_C,1,012,CZ Courelas - Centro,,3,,FFD200,000000,,0,0
+op1_013_0,1,013,Centro - Jamboto (Viveiros),,3,,FFD200,000000,,0,0
+op1_013_A,1,013,Centro - Jamboto - Romeiras (Viveiros),,3,,FFD200,000000,,0,0
+op1_014_0,1,014,Centro - Álamos,,3,,FFD200,000000,,0,0
+op1_015_0,1,015,Centro - Álamos (via Achada),,3,,FFD200,000000,,0,0
+op1_015_A,1,015,Pentada - Centro (via Achada),,3,,FFD200,000000,,0,0
+op1_016_0,1,016,Centro - Quebradas Baixo,,3,,FFD200,000000,,0,0
+op1_016_B,1,016,Centro - CAM Cova do Til,,3,,FFD200,000000,,0,0
+op1_016_A,1,016,Quebradas Baixo - Centro (via Barreiros),,3,,FFD200,000000,,0,0
+op1_016_C,1,016,Alecrins - Centro,,3,,FFD200,000000,,0,0
+op1_016_D,1,016,Alecrins - Centro (de viaduto Quebradas),,3,,FFD200,000000,,0,0
+op1_017_0,1,017,Centro - Lombo Segundo,,3,,FFD200,000000,,0,0
+op1_017_A,1,017,Centro - Lombo Segundo (Até Chão do Carlinhos),,3,,FFD200,000000,,0,0
+op1_017_B,1,017,LMB SEG - Centro (De Quinta Liga a Rochinha 032),,3,,FFD200,000000,,0,0
+op1_017_C,1,017,Lombo Segundo - Centro (De Quinta),,3,,FFD200,000000,,0,0
+op1_017_D,1,017,Lombo Segundo - Centro (Ligação Rochinha C 032),,3,,FFD200,000000,,0,0
+op1_019_0,1,019,Centro - Levada Corujeira,,3,,FFD200,000000,,0,0
+op1_019_A,1,019,Centro - Levada Corujeira - CAM Marcos,,3,,FFD200,000000,,0,0
+op1_020_0,1,020,Centro - Monte,,3,,FFD200,000000,,0,0
+op1_020_A,1,020,Centro - Monte - Lombos,,3,,FFD200,000000,,0,0
+op1_020_B,1,020,Centro - Monte - Lombos - Lajinhas,,3,,FFD200,000000,,0,0
+op1_020_F,1,020,Centro - Monte (CORJ Dentro até Tanque),,3,,FFD200,000000,,0,0
+op1_020_C,1,020,Lajinhas Monte - Centro,,3,,FFD200,000000,,0,0
+op1_020_D,1,020,Monte - Centro (Ligação Est Monumental C. 001),,3,,FFD200,000000,,0,0
+op1_020_E,1,020,Monte - Centro (Ligação Est Monumental C. 002),,3,,FFD200,000000,,0,0
+op1_021_0,1,021,Centro - Monte,,3,,FFD200,000000,,0,0
+op1_021_A,1,021,Centro - Monte - Lombos,,3,,FFD200,000000,,0,0
+op1_021_B,1,021,Centro - Monte - Lombos - Lajinhas,,3,,FFD200,000000,,0,0
+op1_021_C,1,021,Centro - Monte - Lajinhas,,3,,FFD200,000000,,0,0
+op1_021_E,1,021,Monte Via LG Fonte Até Tanque,,3,,FFD200,000000,,0,0
+op1_021_D,1,021,Monte - Centro (Ligação ESTR Monumental C. 001),,3,,FFD200,000000,,0,0
+op1_022_0,1,022,Centro - Babosas,,3,,FFD200,000000,,0,0
+op1_024_0,1,024,Centro - Papagaio Verde,,3,,FFD200,000000,,0,0
+op1_026_0,1,026,Centro - LEV STA Luzia,,3,,FFD200,000000,,0,0
+op1_026_A,1,026,Centro - LEV STA Luzia (via R Pedro José Ornelas),,3,,FFD200,000000,,0,0
+op1_027_0,1,027,Centro - CAM Ferro,,3,,FFD200,000000,,0,0
+op1_028_0,1,028,Centro - D João,,3,,FFD200,000000,,0,0
+op1_028_A,1,028,Galerias D João - D João - Centro,,3,,FFD200,000000,,0,0
+op1_029_0,1,029,Centro - Curral Romeiros (via J Botânico),,3,,FFD200,000000,,0,0
+op1_029_A,1,029,Centro - CR ou LG Miranda (via J Botânico),,3,,FFD200,000000,,0,0
+op1_031_0,1,031,Centro - Jardim Botânico,,3,,FFD200,000000,,0,0
+op1_031_A,1,031,Centro - Jardim Botânico (via R Pedra Sina),,3,,FFD200,000000,,0,0
+op1_032_0,1,032,Centro (Esfera) - Rochinha,,3,,FFD200,000000,,0,0
+op1_032_A,1,032,Centro (AV Mar Cais) - Rochinha,,3,,FFD200,000000,,0,0
+op1_032_B,1,032,Centro (AV Mar Cais) - Rochinha (Rot S João Bosco),,3,,FFD200,000000,,0,0
+op1_032_C,1,032,Rochinha - Centro (Ligação LMB Segundo C. 017),,3,,FFD200,000000,,0,0
+op1_033_0,1,033,Centro - Balancal,,3,,FFD200,000000,,0,0
+op1_034_0,1,034,Centro - Canto do Muro,,3,,FFD200,000000,,0,0
+op1_034_B,1,034,Centro - Canto do Muro - CAM Pasto,,3,,FFD200,000000,,0,0
+op1_034_A,1,034,Canto do Muro - Centro (via Bom Sucesso),,3,,FFD200,000000,,0,0
+op1_034_C,1,034,CZ Faial - Canto do Muro - Centro,,3,,FFD200,000000,,0,0
+op1_036_0,1,036,Centro - Palheiro Ferreiro,,3,,FFD200,000000,,0,0
+op1_037_0,1,037,Centro - Pinheirinho,,3,,FFD200,000000,,0,0
+op1_037_A,1,037,Centro - Lagoas Palheiro Ferreiro,,3,,FFD200,000000,,0,0
+op1_038_0,1,038,Centro - ZN Industrial,,3,,FFD200,000000,,0,0
+op1_038_A,1,038,Centro - Cancela,,3,,FFD200,000000,,0,0
+op1_038_B,1,038,Centro - Neves Miradouro,,3,,FFD200,000000,,0,0
+op1_039_0,1,039,Centro - ZN Industrial,,3,,FFD200,000000,,0,0
+op1_039_A,1,039,Centro - ZN Industrial (via CAM do Pináculo),,3,,FFD200,000000,,0,0
+op1_040_0,1,040,Centro - Quinta Rocha,,3,,FFD200,000000,,0,0
+op1_040_A,1,040,Centro - Quinta Rocha - Bairro S Gonçalo,,3,,FFD200,000000,,0,0
+op1_042_0,1,042,Centro - Alegria,,3,,FFD200,000000,,0,0
+op1_043_0,1,043,Praia Formosa - CAM Casa Branca (via STO António),,3,,FFD200,000000,,0,0
+op1_044_0,1,044,Centro - Nazaré,,3,,FFD200,000000,,0,0
+op1_045_0,1,045,Centro - Nazaré,,3,,FFD200,000000,,0,0
+op1_046_0,1,046,Centro - Ribeira Grande,,3,,FFD200,000000,,0,0
+op1_047_0,1,047,Centro - S João Latrão,,3,,FFD200,000000,,0,0
+op1_047_A,1,047,Centro - S João Latrão (via S Gonçalo),,3,,FFD200,000000,,0,0
+op1_047_B,1,047,Centro - S João Latrão (Via Estádio Madeira),,3,,FFD200,000000,,0,0
+op1_048_0,1,048,Nazaré - Monte,,3,,FFD200,000000,,0,0
+op1_048_A,1,048,Nazaré - Monte (via Corujeira Dentro até Tanque),,3,,FFD200,000000,,0,0
+op1_049_0,1,049,Centro - Fundoa (via 31 Janeiro),,3,,FFD200,000000,,0,0
+op1_049_A,1,049,Centro-Fundoa (ROT Fundoa Cima via 31 Janeiro),,3,,FFD200,000000,,0,0
+op1_049_B,1,049,Centro - Fundoa (via Universidade),,3,,FFD200,000000,,0,0
+op1_049_C,1,049,Centro (R Conselheiro)- Fundoa (via Universidade),,3,,FFD200,000000,,0,0
+op1_050_0,1,050,Viana - LMB Quinta,,3,,FFD200,000000,,0,0
+op1_050_A,1,050,Viana - Campo da Barca,,3,,FFD200,000000,,0,0
+op1_060_0,1,060,Centro - Fundoa,,3,,FFD200,000000,,0,0
+op1_061_0,1,061,Socorridos - Centro,,3,,FFD200,000000,,0,0
+op1_062_0,1,062,Cancela - Centro,,3,,FFD200,000000,,0,0
+op1_070_0,1,070,Centro - Santa Luzia,,3,,FFD200,000000,,0,0
+op1_082_0,1,082,S Tiago - D João,,3,,FFD200,000000,,0,0
+op1_083_0,1,083,Forum M - S Martinho,,3,,FFD200,000000,,0,0
+op1_090_0,1,090,C Saúde-Trapiche-Barreira-C Velho-LMB Aguiares,,3,,FFD200,000000,,0,0
+op1_090_A,1,090,C Saúde-Trapiche-Barreira-LMB Aguiares,,3,,FFD200,000000,,0,0
+op1_090_B,1,090,C Saúde-Trapiche-Barreira-C Marítimo,,3,,FFD200,000000,,0,0
+op1_090_C,1,090,C Saúde-LMB Aguiares,,3,,FFD200,000000,,0,0
+op1_090_D,1,090,C Saúde - C Marítimo,,3,,FFD200,000000,,0,0
+op1_090_E,1,090,C Velho-LMB Aguiares,,3,,FFD200,000000,,0,0
+op1_090_F,1,090,Rampa - LMB Aguiares,,3,,FFD200,000000,,0,0
+op1_090_G,1,090,LMB Aguiares-C Marítimo,,3,,FFD200,000000,,0,0
+op1_090_H,1,090,LMB Aguiares-ESC Galeão,,3,,FFD200,000000,,0,0
+op1_090_I,1,090,C Velho - C Marítimo,,3,,FFD200,000000,,0,0
+op1_090_J,1,090,C Marítimo-C Velho-C Saúde,,3,,FFD200,000000,,0,0
+op1_090_K,1,090,C Marítimo-C Velho-Barreira-Trapiche-C Saúde,,3,,FFD200,000000,,0,0
+op1_090_L,1,090,C Marítimo-C Velho-Rampa,,3,,FFD200,000000,,0,0
+op1_090_M,1,090,LMB Aguiares-C Velho-C Saúde,,3,,FFD200,000000,,0,0
+op1_090_P,1,090,Rampa-Barreira-Trapiche-C Saúde,,3,,FFD200,000000,,0,0
+op1_090_Q,1,090,Rampa-C Velho-Barreira-Trapiche-C Saúde,,3,,FFD200,000000,,0,0
+op1_092_0,1,092,Centro - Três Paus (via Courelas),,3,,FFD200,000000,,0,0
+op1_092_A,1,092,Centro - Três Paus (via Courelas até ST Quitéria),,3,,FFD200,000000,,0,0
+op1_092_B,1,092,Centro - Três Paus (via S Quitéria),,3,,FFD200,000000,,0,0
+op1_092_C,1,092,Centro - Três Paus (via SQ até CZ Courelas),,3,,FFD200,000000,,0,0
+op1_092_D,1,092,Três Paus - Centro (via S Q de ENT Três Paus),,3,,FFD200,000000,,0,0
+op1_093_0,1,093,S Roque - LMB Jamboeiro,,3,,FFD200,000000,,0,0
+op1_093_A,1,093,Serviço à Chamada S Roque - LMB Jamboeiro,,3,,FFD200,000000,,0,0
+op1_094_0,1,094,CAM Terço,,3,,FFD200,000000,,0,0
+op1_094_A,1,094,Largo Miranda - CAM do Terço,,3,,FFD200,000000,,0,0
+op1_094_C,1,094,ESC RIB Domingos Dias - CAM do Terço,,3,,FFD200,000000,,0,0
+op1_094_B,1,094,Largo Miranda - Choupana,,3,,FFD200,000000,,0,0
+op1_094_D,1,094,CAM do Terço - Transval,,3,,FFD200,000000,,0,0
+op1_105_0,1,105,Zona Velha Cidade - Nó do Lido,,3,,FFD200,000000,,0,0
+op1_105_A,1,105,Zona Velha Cidade - Pontinha - Largo da Paz,,3,,FFD200,000000,,0,0
+op1_105_B,1,105,Zona Velha Cidade - Largo da Paz,,3,,FFD200,000000,,0,0
+op1_105_C,1,105,Zona Velha Cidade - Pontinha - Nó do Lido,,3,,FFD200,000000,,0,0
+op1_105_D,1,105,Zona Velha Cidade - Rotunda Lido,,3,,FFD200,000000,,0,0
+op1_105_E,1,105,Rotunda Lido - Pontinha - Zona Velha,,3,,FFD200,000000,,0,0
+op1_108_0,1,108,Centro - Madeira Shopping,,3,,FFD200,000000,,0,0
+op1_108_A,1,108,Centro - Madeira Shopping (Até Cz Est C C Freitas),,3,,FFD200,000000,,0,0
+op1_108_B,1,108,Madeira Shopping - Centro (De Igreja STO Amaro),,3,,FFD200,000000,,0,0
+op1_110_0,1,110,Centro - Barreira,,3,,FFD200,000000,,0,0
+op1_110_A,1,110,Centro - Barreira - LMB Aguiares (Cota 500),,3,,FFD200,000000,,0,0
+op1_115_0,1,115,Centro - Cruzes,,3,,FFD200,000000,,0,0
+op1_115_A,1,115,Centro - São Pedro,,3,,FFD200,000000,,0,0
+op1_115_B,1,115,Centro - Cruzes,,3,,FFD200,000000,,0,0
+op1_125_0,1,125,Centro - Galeão,,3,,FFD200,000000,,0,0
+op1_125_A,1,125,Centro - Galeão (via Viveiros),,3,,FFD200,000000,,0,0
+op1_131_0,1,131,Centro - Teleférico JRD Botânico,,3,,FFD200,000000,,0,0
+op1_181_0,1,181,Funchal - Curral Freiras,,3,,FFD200,000000,,0,0
+op1_181_A,1,181,Funchal - CFreiras via FJ Escura,,3,,FFD200,000000,,0,0
+op1_181_B,1,181,Funchal - CFreiras via Eira Serrado FJ Cardos,,3,,FFD200,000000,,0,0
+op1_181_D,1,181,Funchal - CFreiras (via FJ Cardos),,3,,FFD200,000000,,0,0
+op1_181_E,1,181,Funchal - C Freiras (FJ Escura-Cardos-E Serrado),,3,,FFD200,000000,,0,0
+op1_181_F,1,181,Funchal - CFreiras (CH Eira Serrado FJ Cardos),,3,,FFD200,000000,,0,0
+op1_181_I,1,181,ESTR LMB Chão - TC Cima - SVBaixo,,3,,FFD200,000000,,0,0
+op1_181_J,1,181,LMB Chão - SVelha Baixo - TC Cima,,3,,FFD200,000000,,0,0
+op1_181_W,1,181,LMB Chão - SVelha Baixo - TC Cima,,3,,FFD200,000000,,0,0
+op1_181_Y,1,181,LMB Chão - SVelha Baixo - TC Cima,,3,,FFD200,000000,,0,0
+op1_181_L,1,181,Igreja Curral Freiras - LMB Chão,,3,,FFD200,000000,,0,0
+op1_181_Q,1,181,"ENT Colmeal, Terra Chã Cima, SV Baixo, LMB Chão",,3,,FFD200,000000,,0,0
+op1_181_N,1,181,FJ Cardos FJ Escura - ESC STO António,,3,,FFD200,000000,,0,0
+op1_181_O,1,181,Funchal - CFreiras (via FJ Cardos) Transbordo Balceiras,,3,,FFD200,000000,,0,0
+op1_181_P,1,181,Funchal - CFreiras via FJ Escura,,3,,FFD200,000000,,0,0
+op1_181_C,1,181,C Freiras - Funchal (via Eira Serrado),,3,,FFD200,000000,,0,0
+op1_181_K,1,181,FJ Cardos - Saída Colmeal,,3,,FFD200,000000,,0,0
+op1_181_M,1,181,LMB Chão - FJ Escura FJ Cardos - Igreja CF,,3,,FFD200,000000,,0,0
+op1_195_0,1,195,PMR,,3,,FFD200,000000,,0,0
+op1_198_A,1,198,Centro - Lombo Quinta,,3,,FFD200,000000,,0,0
+op1_198_0,1,198,Balancal - Centro,,3,,FFD200,000000,,0,0
+op1_198_B,1,198,Jardim Botânico - Centro (via RIB J Gomes),,3,,FFD200,000000,,0,0
+op1_198_C,1,198,Graça - Centro,,3,,FFD200,000000,,0,0
+op1_198_D,1,198,Babosas - Centro,,3,,FFD200,000000,,0,0
+op1_198_E,1,198,LEV STA Luzia (via R P J Ornelas) - Centro,,3,,FFD200,000000,,0,0
+op1_198_F,1,198,S João Latrão - Centro,,3,,FFD200,000000,,0,0
+op1_198_G,1,198,Curral Romeiros - Centro,,3,,FFD200,000000,,0,0
+op1_198_H,1,198,Nazaré - Centro,,3,,FFD200,000000,,0,0
+op1_198_I,1,198,Travessa Pomar - Centro,,3,,FFD200,000000,,0,0
+op1_198_J,1,198,Palheiro Ferreiro  - Centro,,3,,FFD200,000000,,0,0
+op1_198_L,1,198,Álamos - Conselheiro,,3,,FFD200,000000,,0,0
+op1_198_M,1,198,CAM do Terço - Transval,,3,,FFD200,000000,,0,0
+op1_199_0,1,199,Centro Alfândega (00154) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_A,1,199,Centro EEM (00226) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_I,1,199,Centro Pinga (01207) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_B,1,199,Centro EEM (00225) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_C,1,199,Centro EEM (00224) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_D,1,199,Fundoa - Centro Autonomia (00323),,3,,FFD200,000000,,0,0
+op1_199_H,1,199,Centro Praça Povo (00002) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_O,1,199,Centro S Lourenço -Fundoa,,3,,FFD200,000000,,0,0
+op1_199_T,1,199,Conselheiro (00019) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_V,1,199,Teleférico (00025) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_W,1,199,Palácio Justiça (01383) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_Y,1,199,Centro Autonomia (00972) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_Z,1,199,Centro Autonomia (00970) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_K,1,199,Centro Autonomia (00974) - Fundoa,,3,,FFD200,000000,,0,0
+op1_199_E,1,199,Fundoa - Centro Pinga (01419),,3,,FFD200,000000,,0,0
+op1_199_F,1,199,Fundoa - Centro Pinga (01519),,3,,FFD200,000000,,0,0
+op1_199_G,1,199,Fundoa - Centro Pinga (01619),,3,,FFD200,000000,,0,0
+op1_199_J,1,199,Fundoa - Centro Pinga (01205),,3,,FFD200,000000,,0,0
+op1_199_L,1,199,Fundoa - Centro Alfândega (00021),,3,,FFD200,000000,,0,0
+op1_199_M,1,199,Fundoa - Centro Alfândega (00022),,3,,FFD200,000000,,0,0
+op1_199_N,1,199,Fundoa - Centro Alfândega (00023),,3,,FFD200,000000,,0,0
+op1_199_P,1,199,Fundoa - Marina (00001),,3,,FFD200,000000,,0,0
+op1_199_R,1,199,Fundoa - Marina (00005),,3,,FFD200,000000,,0,0
+op1_199_S,1,199,Fundoa - Cais (00007),,3,,FFD200,000000,,0,0
